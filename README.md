@@ -1,58 +1,49 @@
 # Manuel Bonavena
 
-```typescript
-const manuel = {
-  location: "Monterrey, NL 🇲🇽",
-  status: "Shipping en producción y sobreviviendo parciales",
-  currentlyBuilding: "Sistema de gestión de bodega en frío — Bodega GM",
-  worksWith: ["Claude Code", "NestJS", "React", "PostgreSQL", "TypeScript"],
-  funFact: "Deployé a producción antes de terminar el parcial de Mates Discretas"
-};
-```
+**Monterrey, NL 🇲🇽** · Ingeniero Backend y frontend , Arquitecto de Software 
+
+**Siempre buscando aprender y mejorar**
 
 ---
 
 ## 🔨 Lo que estoy construyendo
 
 **Bodega GM** — Sistema de gestión de almacén en frío para clientes reales, en producción.
-Stack: NestJS · React · PostgreSQL · PM2 · Nginx · Ubuntu Server · ZeroTier
+
+Stack: `NestJS` · `React` · `PostgreSQL` · `PM2` · `Nginx` · `Ubuntu Server` · `ZeroTier`
 
 El proyecto corre en un servidor físico en la bodega. Lo deplojo remotamente vía SSH + ZeroTier desde mi cuarto.
+
+**BX-SYSTEMS** Agencia Multi-agente para el proceso de investigacion busqueda implementacion y venta de sistemas web 
 
 ---
 
 ## ⚡ Stack
 
-**Backend**
-`NestJS` `TypeScript` `PostgreSQL` `Python` `Flask`
+**Backend** — `NestJS` `TypeScript` `PostgreSQL` `Python` `Flask` 
 
-**Frontend**
-`React` `TailwindCSS`
+**Frontend** — `React` `TailwindCSS` `HTML`
 
-**DevOps & Infra**
-`Ubuntu Server` `Nginx` `PM2` `ZeroTier` `SSH`
+**DevOps & Infra** — `Ubuntu Server` `Nginx` `PM2` `ZeroTier` `SSH`
 
-**AI & Automatización**
-`Claude Code` `Anthropic API` `Multi-Agent Systems` `MCP Servers`
+**AI & Automatización** — `Claude Code` `Anthropic API` `Multi-Agent Systems` `MCP Servers` `AWS CLOUD` 
 
 ---
 
 ## 🧠 Intereses actuales
 
 - Arquitectura multi-agente (orquestadores + subagentes especializados)
-- Integraciones reales: CRMs, EasyBroker, APIs de terceros
+- Integraciones reales: CRMs, APIs de terceros
 - Automatización de flujos de negocio con IA
-- Sistemas de información para industria (bodega, salud, inmobiliaria)
+- Sistemas de información para industria
 
 ---
 
 ## 🎓 También soy estudiante
 
-Ingeniería en Sistemas · Arquitectura de Software · EN la Universidad De Monterrey, MX
+Ingeniería en Sistemas · Arquitectura de Software · Monterrey, MX
 
-Mientras termino la carrera tengo conocimientos en  Bases de datos avanzadas , Centros de Datos, diseño de plataformas web con Flask , AWS cloud
 
----
 
 ## 📬 Contacto
 
@@ -60,4 +51,3 @@ Mientras termino la carrera tengo conocimientos en  Bases de datos avanzadas , C
 linkedin.com/ManuelBonavena
 ---
 
-*"No código perezoso. Nunca."*
